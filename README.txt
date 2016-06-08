@@ -1,4 +1,4 @@
-Forked from original to add Python3 compatability.
+Forked from original to add Python3 compatibility.
 
 Author: Miguel B. Almeida
 Email: mba@priberam.pt
